@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hey+there!+I'm+Suyog+%F0%9F%91%8B;Frontend+Developer+with+Backend+Exposure;React.js+%7C+Node.js+%7C+MySQL+%7C+MongoDB;Building+real-world+apps+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hey+there!+I'm+Suyog+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 ---
@@ -57,15 +57,12 @@ const suyog = {
 
   goal: "To grow as a full-stack developer and build products that matter 🎯",
 
-  funFact: "I debug with console.log and I'm not ashamed about it 😄",
-
 };
 ```
 
 ---
 
-## ⚡ What I Can Do
-
+## ⚡ What can I bring to the table
 <div align="center">
 
 | 💻 Frontend | ⚙️ Backend | 🗄️ Database | 🛠️ Tools |
@@ -122,35 +119,6 @@ const suyog = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🖼️ AI Image Generation App
-`React.js • Node.js • OpenAI API`
-
-> AI-powered web app generating images from text prompts and user-uploaded images using OpenAI API.
-> Real-time previews, multiple image variations, and download functionality built in.
-
----
-
-### 🎓 Student Attendance Management System
-`HTML • CSS • PHP • SQL`
-
-> Role-based attendance system with real-time updates, secure database integration, and clean admin dashboard.
-
----
-
-### 🌐 Personal Portfolio Website
-`HTML • CSS • JavaScript • Figma`
-
-> Responsive portfolio showcasing projects and skills — designed in Figma, implemented with clean UI/UX principles.
-> 🔗 [Live →](https://suyognimiportfolio.vercel.app/)
 
 </div>
 
