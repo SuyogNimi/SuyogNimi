@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suyog%20Nimi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React.js%20%7C%20Node.js&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suyog%20Nimi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20with%20Backend%20Exposure&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://suyognimi-portfolio.com">
+  <a href="https://suyognimiportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/suyog-nimi-a46692274">
+  <a href="https://www.linkedin.com/in/suyog-nimi-a46692274/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:itzsuyog24@gmail.com">
@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Suyog+%F0%9F%91%8B;Frontend+Dev+%7C+React+%7C+Node.js+%7C+MySQL;Building+real-world+apps+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hey+there!+I'm+Suyog+%F0%9F%91%8B;Frontend+Developer+with+Backend+Exposure;React.js+%7C+Node.js+%7C+MySQL+%7C+MongoDB;Building+real-world+apps+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,28 +27,44 @@
 
 ```javascript
 const suyog = {
-  name: "Suyog Nimi",
-  location: "Ghaziabad, India 📍",
-  education: "B.Tech in Information Technology — ABES Engineering College",
+
+  name:        "Suyog Nimi",
+  location:    "Ghaziabad, India 📍",
+  education:   "B.Tech — Information Technology @ ABES Engineering College",
   currentRole: "Software Development Intern @ Munder Software Pvt. Ltd.",
-  workingSince: "Feb 2026",
-  
+
+  focus: "Frontend Developer with Backend Exposure",
+
+  // What I bring to the table
+  strengths: [
+    "Building clean, responsive UIs with React.js",
+    "Connecting frontend to backend via REST APIs",
+    "Writing readable, maintainable code",
+    "Turning Figma designs into real interfaces",
+    "Working with MySQL & MongoDB for data handling",
+  ],
+
   techStack: {
     frontend:  ["React.js", "JavaScript", "HTML5", "CSS3"],
-    backend:   ["Node.js", "Express.js"],
+    backend:   ["Node.js", "Express.js", "REST APIs"],
     database:  ["MySQL", "MongoDB"],
     tools:     ["Git", "GitHub", "Figma", "VS Code"],
-    learning:  ["Next.js", "TypeScript", "REST APIs"],
   },
 
-  interests: ["Clean Code", "UI/UX Design", "Open Source", "Problem Solving"],
-  funFact:   "I debug with console.log and I'm not ashamed 😄",
+  currentlyLearning: ["Next.js", "TypeScript", "System Design"],
+
+  softSkills: ["Team Collaboration", "Problem Solving", "Quick Learner"],
+
+  goal: "To grow as a full-stack developer and build products that matter 🎯",
+
+  funFact: "I debug with console.log and I'm not ashamed about it 😄",
+
 };
 ```
 
 ---
 
-## 🚀 What I Do
+## ⚡ What I Can Do
 
 <div align="center">
 
@@ -56,8 +72,9 @@ const suyog = {
 |:-----------:|:----------:|:-----------:|:--------:|
 | React.js | Node.js | MySQL | Git & GitHub |
 | JavaScript | Express.js | MongoDB | Figma |
-| HTML5 & CSS3 | REST APIs | Query Design | VS Code |
-| Responsive UI | JWT Auth | Data Modeling | Canva |
+| HTML5 & CSS3 | REST API Integration | Query Design | VS Code |
+| Responsive UI | JWT Authentication | Data Modeling | Canva |
+| Figma to Code | Session Management | Schema Design | Vercel |
 
 </div>
 
@@ -68,12 +85,12 @@ const suyog = {
 **🏢 Software Development Intern — Munder Software Pvt. Ltd.**
 `Feb 2026 – Present`
 
-- 🔧 Building & maintaining responsive UIs with **React.js, HTML, CSS, JavaScript**
-- 🔗 Integrating frontend with **REST APIs** and backend services
-- 🗃️ Working with **MySQL & MongoDB** for data management
-- ⚡ Implementing features: session timeout, forgot password, CSV upload, report generation
-- 🤝 Collaborating with senior devs, debugging, and optimizing performance
-- 📁 Using **Git & GitHub** for version control
+- 🎨 Building & maintaining **responsive UIs** with React.js, HTML, CSS, JavaScript
+- 🔗 Integrating frontend with **REST APIs** and backend services for seamless data flow
+- 🗃️ Working with **MySQL & MongoDB** for data management and application functionality
+- ⚡ Implementing real-world features: **session timeout, forgot password, CSV upload, report generation**
+- 🤝 Collaborating with senior developers to **debug, optimize, and improve UX**
+- 📁 Using **Git & GitHub** for version control and team collaboration
 
 ---
 
@@ -117,21 +134,23 @@ const suyog = {
 ### 🖼️ AI Image Generation App
 `React.js • Node.js • OpenAI API`
 
-> AI-powered web app generating images from text prompts & user-uploaded images using OpenAI API. Includes real-time previews, multiple variations, and download functionality.
+> AI-powered web app generating images from text prompts and user-uploaded images using OpenAI API.
+> Real-time previews, multiple image variations, and download functionality built in.
 
 ---
 
 ### 🎓 Student Attendance Management System
 `HTML • CSS • PHP • SQL`
 
-> Role-based attendance system with real-time updates, secure DB integration, and clean admin dashboard.
+> Role-based attendance system with real-time updates, secure database integration, and clean admin dashboard.
 
 ---
 
 ### 🌐 Personal Portfolio Website
 `HTML • CSS • JavaScript • Figma`
 
-> Responsive portfolio showcasing projects and skills — designed in Figma, built with clean UI/UX principles.
+> Responsive portfolio showcasing projects and skills — designed in Figma, implemented with clean UI/UX principles.
+> 🔗 [Live →](https://suyognimiportfolio.vercel.app/)
 
 </div>
 
@@ -145,7 +164,7 @@ const suyog = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SuyogNimi&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=SuyogNimi&theme=tokyonight&hide_border=true" width="55%"/>
 </div>
 
 ---
@@ -177,22 +196,20 @@ const suyog = {
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://suyognimi-portfolio.com">
+
+  <a href="https://suyognimiportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-FF5722?style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/suyog-nimi-a46692274">
+  <a href="https://www.linkedin.com/in/suyog-nimi-a46692274/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:itzsuyog24@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
